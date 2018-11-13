@@ -1,0 +1,20 @@
+Find the most isolated number
+-----------------------------
+
+Enter size for numbers: 1000000
+Enter seed for rand: 552
+Constructed in 4.42417 seconds
+The most isolated number is -394924
+calculated in 0.774772 seconds
+
+Enter size for numbers: 0
+
+
+Count the unmatched words
+-------------------------
+
+Enter size for words lists: 60000
+Enter word length: 5
+Enter alphabet: abcdefg
+Enter seed for rand: 557
+Constructed in 8.12853 seconds
